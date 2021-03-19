@@ -10,7 +10,7 @@ cffi==1.11.5
 chardet==3.0.4
 coverage==4.5.2
 cryptography==2.4.2
-Django==2.2.6
+Django==2.2.18
 emoji==0.5.1
 future==0.17.1
 google-api-python-client==1.7.8
